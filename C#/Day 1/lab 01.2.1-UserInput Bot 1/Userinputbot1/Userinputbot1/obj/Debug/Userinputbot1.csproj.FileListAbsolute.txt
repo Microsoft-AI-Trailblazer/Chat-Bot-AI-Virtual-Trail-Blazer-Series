@@ -1,0 +1,55 @@
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\Bot Application.dll.config
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\Bot Application.dll
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\Bot Application.pdb
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\Autofac.dll
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\Chronic.dll
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\Microsoft.Bot.Builder.dll
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\Microsoft.Bot.Connector.dll
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\Newtonsoft.Json.dll
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\System.Net.Http.Formatting.dll
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\System.Web.Http.dll
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\System.Web.Http.WebHost.dll
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\Autofac.xml
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\Microsoft.Bot.Builder.pdb
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\Microsoft.Bot.Builder.xml
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\Microsoft.Bot.Builder.Autofac.pdb
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\Microsoft.Bot.Connector.xml
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\Newtonsoft.Json.xml
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\System.Net.Http.Formatting.xml
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\System.Web.Http.xml
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\System.Web.Http.WebHost.xml
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\obj\Debug\Userinputbot1.csprojResolveAssemblyReference.cache
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\obj\Debug\Userinputbot1.csproj.CoreCompileInputs.cache
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\obj\Debug\Userinputbot1.csproj.CopyComplete
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\obj\Debug\Bot Application.dll
+C:\Users\user.user-PC\source\repos\Userinputbot1\Userinputbot1\obj\Debug\Bot Application.pdb

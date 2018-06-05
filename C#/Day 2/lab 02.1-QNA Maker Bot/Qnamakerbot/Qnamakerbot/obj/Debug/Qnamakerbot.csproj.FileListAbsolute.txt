@@ -1,0 +1,56 @@
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\Bot Application.dll.config
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\Bot Application.dll
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\Bot Application.pdb
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\Autofac.dll
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\Chronic.dll
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\Microsoft.Bot.Builder.dll
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\Microsoft.Bot.Connector.dll
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\Microsoft.IdentityModel.Logging.dll
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\Microsoft.IdentityModel.Protocols.dll
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\Microsoft.IdentityModel.Tokens.dll
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\Microsoft.Rest.ClientRuntime.dll
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\Newtonsoft.Json.dll
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\QnAMakerDialog.dll
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\System.Net.Http.Formatting.dll
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\System.Web.Http.dll
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\System.Web.Http.WebHost.dll
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\Autofac.xml
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\Microsoft.Bot.Builder.pdb
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\Microsoft.Bot.Builder.xml
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\Microsoft.Bot.Builder.Autofac.pdb
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\Microsoft.Bot.Connector.xml
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\Microsoft.IdentityModel.Logging.xml
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\Microsoft.IdentityModel.Protocols.xml
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\Microsoft.IdentityModel.Tokens.xml
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\Newtonsoft.Json.xml
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\System.Net.Http.Formatting.xml
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\System.Web.Http.xml
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\System.Web.Http.WebHost.xml
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\it\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\nl\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\obj\Debug\Qnamakerbot.csproj.CoreCompileInputs.cache
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\obj\Debug\Qnamakerbot.csproj.CopyComplete
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\obj\Debug\Bot Application.dll
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\obj\Debug\Bot Application.pdb
+D:\chatbotsnew\Qnamakerbot\Qnamakerbot\obj\Debug\Qnamakerbot.csprojResolveAssemblyReference.cache

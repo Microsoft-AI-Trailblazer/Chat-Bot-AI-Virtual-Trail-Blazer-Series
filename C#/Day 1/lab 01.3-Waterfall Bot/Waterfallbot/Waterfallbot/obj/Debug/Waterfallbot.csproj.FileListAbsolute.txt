@@ -1,0 +1,55 @@
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\Bot Application.dll.config
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\Bot Application.dll
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\Bot Application.pdb
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\Autofac.dll
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\Chronic.dll
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\Microsoft.Bot.Builder.dll
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\Microsoft.Bot.Connector.dll
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\Microsoft.IdentityModel.Logging.dll
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\Microsoft.IdentityModel.Protocols.dll
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\Microsoft.IdentityModel.Tokens.dll
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\Microsoft.Rest.ClientRuntime.dll
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\Newtonsoft.Json.dll
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\System.Net.Http.Formatting.dll
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\System.Web.Http.dll
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\System.Web.Http.WebHost.dll
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\Autofac.xml
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\Microsoft.Bot.Builder.pdb
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\Microsoft.Bot.Builder.xml
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\Microsoft.Bot.Builder.Autofac.pdb
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\Microsoft.Bot.Connector.xml
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\Microsoft.IdentityModel.Logging.xml
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\Microsoft.IdentityModel.Protocols.xml
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\Microsoft.IdentityModel.Tokens.xml
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\Newtonsoft.Json.xml
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\System.Net.Http.Formatting.xml
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\System.Web.Http.xml
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\System.Web.Http.WebHost.xml
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\it\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\nl\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\Waterfallbot\Waterfallbot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\Waterfallbot\Waterfallbot\obj\Debug\Waterfallbot.csprojResolveAssemblyReference.cache
+D:\chatbotsnew\Waterfallbot\Waterfallbot\obj\Debug\Waterfallbot.csproj.CoreCompileInputs.cache
+D:\chatbotsnew\Waterfallbot\Waterfallbot\obj\Debug\Waterfallbot.csproj.CopyComplete
+D:\chatbotsnew\Waterfallbot\Waterfallbot\obj\Debug\Bot Application.dll
+D:\chatbotsnew\Waterfallbot\Waterfallbot\obj\Debug\Bot Application.pdb

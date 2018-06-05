@@ -1,0 +1,111 @@
+D:\hellobot\hellobot\bin\Bot Application.dll.config
+D:\hellobot\hellobot\bin\Bot Application.dll
+D:\hellobot\hellobot\bin\Bot Application.pdb
+D:\hellobot\hellobot\bin\AdaptiveCards.dll
+D:\hellobot\hellobot\bin\Autofac.dll
+D:\hellobot\hellobot\bin\Chronic.dll
+D:\hellobot\hellobot\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\hellobot\hellobot\bin\Microsoft.Bot.Builder.dll
+D:\hellobot\hellobot\bin\Microsoft.Bot.Connector.dll
+D:\hellobot\hellobot\bin\Microsoft.IdentityModel.Logging.dll
+D:\hellobot\hellobot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\hellobot\hellobot\bin\Microsoft.IdentityModel.Protocols.dll
+D:\hellobot\hellobot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\hellobot\hellobot\bin\Microsoft.IdentityModel.Tokens.dll
+D:\hellobot\hellobot\bin\Microsoft.Rest.ClientRuntime.dll
+D:\hellobot\hellobot\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\hellobot\hellobot\bin\Newtonsoft.Json.dll
+D:\hellobot\hellobot\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\hellobot\hellobot\bin\System.Net.Http.Formatting.dll
+D:\hellobot\hellobot\bin\System.Web.Http.dll
+D:\hellobot\hellobot\bin\System.Web.Http.WebHost.dll
+D:\hellobot\hellobot\bin\Autofac.xml
+D:\hellobot\hellobot\bin\Microsoft.Bot.Builder.pdb
+D:\hellobot\hellobot\bin\Microsoft.Bot.Builder.xml
+D:\hellobot\hellobot\bin\Microsoft.Bot.Builder.Autofac.pdb
+D:\hellobot\hellobot\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\hellobot\hellobot\bin\Microsoft.Bot.Connector.xml
+D:\hellobot\hellobot\bin\Microsoft.IdentityModel.Logging.xml
+D:\hellobot\hellobot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\hellobot\hellobot\bin\Microsoft.IdentityModel.Protocols.xml
+D:\hellobot\hellobot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\hellobot\hellobot\bin\Microsoft.IdentityModel.Tokens.xml
+D:\hellobot\hellobot\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\hellobot\hellobot\bin\Newtonsoft.Json.xml
+D:\hellobot\hellobot\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\hellobot\hellobot\bin\System.Net.Http.Formatting.xml
+D:\hellobot\hellobot\bin\System.Web.Http.xml
+D:\hellobot\hellobot\bin\System.Web.Http.WebHost.xml
+D:\hellobot\hellobot\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\hellobot\hellobot\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\hellobot\hellobot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\hellobot\hellobot\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\hellobot\hellobot\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\hellobot\hellobot\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\hellobot\hellobot\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\hellobot\hellobot\bin\it\Microsoft.Bot.Builder.resources.dll
+D:\hellobot\hellobot\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\hellobot\hellobot\bin\nl\Microsoft.Bot.Builder.resources.dll
+D:\hellobot\hellobot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+D:\hellobot\hellobot\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\hellobot\hellobot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\hellobot\hellobot\obj\Debug\hellobot.csproj.CoreCompileInputs.cache
+D:\hellobot\hellobot\obj\Debug\hellobot.csproj.CopyComplete
+D:\hellobot\hellobot\obj\Debug\Bot Application.dll
+D:\hellobot\hellobot\obj\Debug\Bot Application.pdb
+D:\chatbotsnew\hellobot\hellobot\bin\Bot Application.dll.config
+D:\chatbotsnew\hellobot\hellobot\bin\Bot Application.dll
+D:\chatbotsnew\hellobot\hellobot\bin\Bot Application.pdb
+D:\chatbotsnew\hellobot\hellobot\bin\AdaptiveCards.dll
+D:\chatbotsnew\hellobot\hellobot\bin\Autofac.dll
+D:\chatbotsnew\hellobot\hellobot\bin\Chronic.dll
+D:\chatbotsnew\hellobot\hellobot\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\chatbotsnew\hellobot\hellobot\bin\Microsoft.Bot.Builder.dll
+D:\chatbotsnew\hellobot\hellobot\bin\Microsoft.Bot.Connector.dll
+D:\chatbotsnew\hellobot\hellobot\bin\Microsoft.IdentityModel.Logging.dll
+D:\chatbotsnew\hellobot\hellobot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\chatbotsnew\hellobot\hellobot\bin\Microsoft.IdentityModel.Protocols.dll
+D:\chatbotsnew\hellobot\hellobot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\chatbotsnew\hellobot\hellobot\bin\Microsoft.IdentityModel.Tokens.dll
+D:\chatbotsnew\hellobot\hellobot\bin\Microsoft.Rest.ClientRuntime.dll
+D:\chatbotsnew\hellobot\hellobot\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\chatbotsnew\hellobot\hellobot\bin\Newtonsoft.Json.dll
+D:\chatbotsnew\hellobot\hellobot\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\chatbotsnew\hellobot\hellobot\bin\System.Net.Http.Formatting.dll
+D:\chatbotsnew\hellobot\hellobot\bin\System.Web.Http.dll
+D:\chatbotsnew\hellobot\hellobot\bin\System.Web.Http.WebHost.dll
+D:\chatbotsnew\hellobot\hellobot\bin\Autofac.xml
+D:\chatbotsnew\hellobot\hellobot\bin\Microsoft.Bot.Builder.pdb
+D:\chatbotsnew\hellobot\hellobot\bin\Microsoft.Bot.Builder.xml
+D:\chatbotsnew\hellobot\hellobot\bin\Microsoft.Bot.Builder.Autofac.pdb
+D:\chatbotsnew\hellobot\hellobot\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\chatbotsnew\hellobot\hellobot\bin\Microsoft.Bot.Connector.xml
+D:\chatbotsnew\hellobot\hellobot\bin\Microsoft.IdentityModel.Logging.xml
+D:\chatbotsnew\hellobot\hellobot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\chatbotsnew\hellobot\hellobot\bin\Microsoft.IdentityModel.Protocols.xml
+D:\chatbotsnew\hellobot\hellobot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\chatbotsnew\hellobot\hellobot\bin\Microsoft.IdentityModel.Tokens.xml
+D:\chatbotsnew\hellobot\hellobot\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\chatbotsnew\hellobot\hellobot\bin\Newtonsoft.Json.xml
+D:\chatbotsnew\hellobot\hellobot\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\chatbotsnew\hellobot\hellobot\bin\System.Net.Http.Formatting.xml
+D:\chatbotsnew\hellobot\hellobot\bin\System.Web.Http.xml
+D:\chatbotsnew\hellobot\hellobot\bin\System.Web.Http.WebHost.xml
+D:\chatbotsnew\hellobot\hellobot\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\hellobot\hellobot\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\hellobot\hellobot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\hellobot\hellobot\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\hellobot\hellobot\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\hellobot\hellobot\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\hellobot\hellobot\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\hellobot\hellobot\bin\it\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\hellobot\hellobot\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\hellobot\hellobot\bin\nl\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\hellobot\hellobot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\hellobot\hellobot\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\hellobot\hellobot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\chatbotsnew\hellobot\hellobot\obj\Debug\hellobot.csprojResolveAssemblyReference.cache
+D:\chatbotsnew\hellobot\hellobot\obj\Debug\hellobot.csproj.CoreCompileInputs.cache
+D:\chatbotsnew\hellobot\hellobot\obj\Debug\hellobot.csproj.CopyComplete
+D:\chatbotsnew\hellobot\hellobot\obj\Debug\Bot Application.dll
+D:\chatbotsnew\hellobot\hellobot\obj\Debug\Bot Application.pdb

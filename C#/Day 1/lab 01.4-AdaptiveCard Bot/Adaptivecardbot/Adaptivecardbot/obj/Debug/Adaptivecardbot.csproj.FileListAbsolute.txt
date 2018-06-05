@@ -1,0 +1,55 @@
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\Bot Application.dll.config
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\Bot Application.dll
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\Bot Application.pdb
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\AdaptiveCards.dll
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\Autofac.dll
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\Chronic.dll
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\Microsoft.Bot.Builder.Autofac.dll
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\Microsoft.Bot.Builder.dll
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\Microsoft.Bot.Connector.dll
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\Microsoft.IdentityModel.Logging.dll
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\Microsoft.IdentityModel.Protocols.dll
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\Microsoft.IdentityModel.Tokens.dll
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\Newtonsoft.Json.dll
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\System.Net.Http.Formatting.dll
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\System.Web.Http.dll
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\System.Web.Http.WebHost.dll
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\Autofac.xml
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\Microsoft.Bot.Builder.pdb
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\Microsoft.Bot.Builder.xml
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\Microsoft.Bot.Builder.Autofac.pdb
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\Microsoft.Bot.Builder.Autofac.xml
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\Microsoft.Bot.Connector.xml
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\Microsoft.IdentityModel.Logging.xml
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\Microsoft.IdentityModel.Protocols.xml
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\Microsoft.IdentityModel.Tokens.xml
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\Newtonsoft.Json.xml
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\System.Net.Http.Formatting.xml
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\System.Web.Http.xml
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\System.Web.Http.WebHost.xml
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\cs\Microsoft.Bot.Builder.resources.dll
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\it\Microsoft.Bot.Builder.resources.dll
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\nl\Microsoft.Bot.Builder.resources.dll
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\obj\Debug\Adaptivecardbot.csproj.CoreCompileInputs.cache
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\obj\Debug\Adaptivecardbot.csproj.CopyComplete
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\obj\Debug\Bot Application.dll
+c:\users\user.user-pc\source\repos\Adaptivecardbot\Adaptivecardbot\obj\Debug\Bot Application.pdb
