@@ -17,10 +17,10 @@ Over the course of this lab, we will collect various keys. It is recommended tha
 ```
 1.Bot Framework App ID.
 2.Bot Framework App password.
-3.knowledgeBaseId.
-4.EndpointKey.
 ```
 Note:Please refer following link to understand how to generate Bot Framework App ID and App password.  link :[Bot Registration](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-quickstart-registration?view=azure-bot-service-3.0).
+
+
 
 
 ### How to Train QnaMaker Service
@@ -43,19 +43,18 @@ To check implementation of this lab please refer to the following file in this p
 1. Open QnaMakerBot.js file in SubLime Text Editor and provide Bot Framework App ID and Bot Framework App password in this section of code. (note : If you are working on local then there is no need to specify Bot Framework App ID and Bot Framework App password  ).
 ![qnamakerbot_0](https://user-images.githubusercontent.com/31923904/39426416-5900fe60-4c9d-11e8-8938-a723776c5dbb.jpg)
 
-2.Open .env file in lab 02.1-QNA Maker Bot folder and paste knowledgeBaseId key and EndPointKey collected from the QnaMaker services.
+2.Open .env file in lab 02.1-QNA Maker Bot folder and paste Authorization and URI collected from the QnaMaker services.
+
+Note :Please refer the following link for understanding how to get Authorization and URI.[QNA Maker Service](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/publish-knowledge-base)
 
 3.Open command prompt (cmd) and set path to lab 02.1-QNA Maker Bot folder then run QnaMakerBot.js file using command below:
 
                                node QnaMakerBot.js.
 
-4.Start the Bot Framework Emulator and connect your bot and type http://localhost:3978/api/messages into the address bar.(This is the default end point that your bot listens to when hosted locally).Click on “Connect” button.(note : If you are working on local then no need to specify Microsoft App ID and Microsoft App Password ).  
+4.Start the Bot Framework Emulator and connect your bot and type http://localhost:3978/api/messages into the address bar.(This is the default end point that your bot listens to when hosted locally).Click on ?Connect? button.(note : If you are working on local then no need to specify Microsoft App ID and Microsoft App Password ).  
 
 ![qnamakerbot_1](https://user-images.githubusercontent.com/31923904/39426441-80907d48-4c9d-11e8-8efe-80d2604eeb9a.jpg)
 
  -The following screen shot shows the results of this chat bot running in the Bot Framework Channel Emulator.
 
 ![qnamakerbot_2](https://user-images.githubusercontent.com/31923904/39426460-98205550-4c9d-11e8-85e5-e4e3c14049db.jpg)
-                                    
-
-
